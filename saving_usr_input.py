@@ -1,21 +1,6 @@
 #! usr/bin/env python
 
-# define class
-# set gui function
-# create panel
-# create menuBar
-# ccreate buttons/menus
-# append items to buttons/menus
-# append menus to menubar
-# set text panel
-# bind functions or events to menu items
-# set menu bar
-# maximize and show
-# Define quit box
-# main()
-
 import wx
-import csv
 
 class windowClass(wx.Frame):
 
